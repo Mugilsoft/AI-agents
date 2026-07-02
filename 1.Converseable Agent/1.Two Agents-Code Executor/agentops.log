@@ -1,0 +1,4 @@
+2026-04-26 07:31:04,604 - INFO - [ConcurrentFuturesInstrumentor] Successfully instrumented concurrent.futures.ThreadPoolExecutor
+2026-04-26 07:31:58,779 - ERROR - Error in span llama3.1.llm: llama runner process has terminated: %!w(<nil>) (status code: 500)
+2026-04-26 07:31:58,789 - ERROR - Error in span ag2.agent.code_writer.receive: llama runner process has terminated: %!w(<nil>) (status code: 500)
+2026-04-26 07:31:58,795 - ERROR - Error in span ag2.chat.code_executor_agent_to_code_writer.workflow: llama runner process has terminated: %!w(<nil>) (status code: 500)
